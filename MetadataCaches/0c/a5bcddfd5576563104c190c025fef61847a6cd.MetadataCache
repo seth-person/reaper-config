@@ -2,6 +2,12 @@ C10018 /mnt/Storage/important_data/Syncthing/REAPER/Testing/Media
 F 120_Lounge_LoFiTops_TL.wav 2117530 0 1751788826 0
 D y 2016-09-14 s 44100 n 2 r 1:04:48.000
 D l 0:08.000 i 24
+F BOS_DBN_Drum_Clap_One_Shot_Tight_House.wav 207974 0 1751788685 0
+D s 44100 n 2 l 0:00.785 i 24
+F ESM_One_Shot_Deep_House_Kick_Subby_E_Dance_EDM_Puchy_Deep.wav 304272 0 1751788769 0
+D a "Epic Stock Media" y 2020-03-14 g "Deep House" c "This sound from Epic Stock Media Fire Deep House sample pack."
+D d "This sound from Epic Stock Media Fire Deep House sample pack." s 48000 n 2 r 1:00:00.000
+D l 0:00.480 i 24 m 0 j "mime:image/jpeg offset:139019 length:42201"
 F "kick - stem-glued.wav" 1511876 0 1754086175 0
 D y 2025-08-01 s 48000 n 1 l 0:07.857
 D i 32
