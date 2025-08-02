@@ -1,0 +1,16 @@
+C10018 /mnt/Storage/important_data/Syncthing/REAPER/Testing/Media
+F 120_Lounge_LoFiTops_TL.wav 2117530 0 1751788826 0
+D y 2016-09-14 s 44100 n 2 r 1:04:48.000
+D l 0:08.000 i 24
+F "kick - stem-glued.wav" 1511876 0 1754086175 0
+D y 2025-08-01 s 48000 n 1 l 0:07.857
+D i 32
+F "testing_freeze_weird drums.wav" 2359600 0 1754090160 0
+D y 2025-08-01 s 48000 n 2 l 0:06.142
+D i 32
+F ZEN_BDB_172_bass_synth_loop_wobbler_D#.wav 2954902 0 1751788728 0
+D t "Burner - Drum & Bass" a Zenhiser g "Drum & Bass" c Zenhiser
+D s 44100 n 2 l 0:11.162 i 24
+F ZEN_TTB_130_drum_loop_no_kick_dontbreakthis.wav 3909152 0 1751788685 0
+D t "Taptic - Breaks" a Zenhiser g Breaks c Zenhiser
+D s 44100 n 2 l 0:14.769 i 24

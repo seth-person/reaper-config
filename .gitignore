@@ -1,0 +1,7 @@
+# Ignore system files
+Thumbs.db
+.DS_Store
+# Ignore Reaper's temporary files
+reaper-kb.ini.bak
+reaper-menu.ini.bak
+
