@@ -1,7 +1,12 @@
-# Ignore system files
+.git/
 Thumbs.db
 .DS_Store
-# Ignore Reaper's temporary files
-reaper-kb.ini.bak
-reaper-menu.ini.bak
-
+reaper-install-rev.txt
+reaper-recent*.ini
+Data/
+MetadataCaches/
+LangPack/
+MidiNoteNames
+*.bak
+reaper-vstplugins64.ini
+Icon\r
