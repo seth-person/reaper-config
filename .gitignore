@@ -10,3 +10,8 @@ MidiNoteNames
 *.bak
 reaper-vstplugins64.ini
 Icon\r
+Cursors/
+Scripts/
+reaper-clap-linux-x86_64.ini
+reaper-midihw-linux.ini
+*linux.ini
