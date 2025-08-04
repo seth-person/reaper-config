@@ -15,3 +15,7 @@ Scripts/
 reaper-clap-linux-x86_64.ini
 reaper-midihw-linux.ini
 *linux.ini
+reaper-clap-macos-aarch64.ini
+reaper-vstplugins_arm64.ini
+reaper-vstshells_arm54.ini
+reaper-wndpos.ini
